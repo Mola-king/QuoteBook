@@ -1,7 +1,4 @@
-Mercy: “I have always found that mercy bears richer fruits than strict justice.”
-<<<<<<< HEAD
-
 Opportunity: “Each day is a brand new opportunity to be Jesus to the world.”
-=======
+
 Defeating Satan: “When Satan reminds us of our past, we should remind him of his futuristic.”
->>>>>>> personal_quotes
+
